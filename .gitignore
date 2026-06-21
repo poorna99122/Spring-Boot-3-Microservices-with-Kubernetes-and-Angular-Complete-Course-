@@ -1,0 +1,15 @@
+# Maven
+**/target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# MySQL Docker data
+**/mysql/
+
+# MongoDB Docker data
+**/data/
+
+# Logs
+*.log
